@@ -1,0 +1,12 @@
+.notFound {
+  font-size: 26px;
+  font-weight: 400;
+  color: #444;
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  text-align: center;
+  height: 60vh;
+  align-items: center;
+  font-family: "Josefin Sans", sans-serif;
+}
